@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.count {
+  font-size: 0px;
+}
+
+.product img {
+  height: 250px;
+}
+.product h3 {
+  height: 55px;
+  overflow: hidden;
+}
+
+.modal-tana {
+  width: 100%;
+}
+
+.shopItem-modal {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.shopItem-modal img {
+  width: 100px;
+  height: 100px;
+  margin-right: 8px;
+}
+.shopItem-modal > h4 {
+  width: 300px;
+  font-size: 14px;
+}
+.shopItem-modal .calc-area {
+  width: 300px;
+  margin-right: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.shopItem-modal .calc-area button {
+  width: 20px;
+  height: 40px;
+  background-color: red;
+  color: white;
+  border: none;
+}
+.shopItem-modal .calc-area button:first-child {
+  background-color: #3b8754;
+}
+.shopItem-modal .calc-area h4 {
+  margin: 2px;
+}
+.shopItem-modal .calc-area h5 {
+  margin: 5px;
+  margin-right: 10px;
+}
+.shopItem-modal a {
+  font-size: 34px;
+}
+
+/*# sourceMappingURL=style.css.map */
